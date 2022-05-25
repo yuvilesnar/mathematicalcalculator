@@ -1,0 +1,87 @@
+#addbut{
+    margin-bottom: 25px;
+    border-radius:50ppx;
+    width:100px;
+    text-align:left;
+    position:relative;
+    left:0;
+    height:200px;
+
+}
+#subbut{
+    margin-bottom:20px;
+}
+
+#kootalin{
+    height:100px;
+    background-color: blue;
+}
+
+#kalithalin{
+        height:100px;
+        width:100px;
+        position:relative;
+        bottom:228px;
+        left:200px;
+        background-color: rgb(69, 138, 0);
+
+}
+
+
+.buttons{
+    
+    text-align:center;
+    margin-top:5px;
+}
+
+
+body{
+     background-color:#3385c6;
+}
+#operation{
+    width:500px;
+    margin:auto;
+    text-align:center;
+    background-color: rgba(229, 61, 235, 0.867);
+}
+#addresult{
+     display: inline;
+     background-color: pink;
+     display: inline;
+     position:relative;
+     bottom:20px;
+     right:195px;
+    
+     
+}
+
+#divbut{
+    position:relative;
+    right:210px;
+}
+#divisioninput{
+    border-radius: 20px;
+    height:100px;
+    background-color: #880000; 
+}
+#mulbut{
+    position:relative;
+    left:210px;
+    bottom:100px;   
+    
+}
+#multiplicationbutton{
+    border-radius:20px;
+    height:100px;
+    background-color: orange;
+    font-size:15px;
+}
+#result{
+    margin-left:500px;
+    display:inline;
+    position:relative;
+    bottom:400px;
+    left:100px;
+    color:gold;
+    font-size:50px;
+}
